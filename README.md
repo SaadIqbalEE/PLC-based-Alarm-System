@@ -18,4 +18,4 @@ Now,
 *To avoid the fluctuation at transition points i.e [200,500,900]. There is 50units windows between upper threshold and lower threshold.*
 
 ### Example:
-*System threat alarm starts when input crosses 500 but it will stops when input crosses 450.*
+*System threat alarm starts when input crosses 500 but it will stops when input will cross 450.*
