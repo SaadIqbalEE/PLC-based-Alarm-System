@@ -1,5 +1,5 @@
 # PLC-based-Alarm-System
-##Using Software "LOGO soft comfort v7"
+## Using Software "LOGO soft comfort v7"
 
 *Analog input with resolution of 10 bits:*
 
@@ -17,6 +17,6 @@ If input is above 200 and below 500, then system is normal and every alarm is OF
 
 **To avoid the fluctuation at transition points i.e [200,500,900]. There is 50units windows between upper threshold and lower threshold.**
 
-###Example:
+### Example:
 
-####System threat alarm starts when input crosses 500 but it will stops when input crosses 450.
+#### System threat alarm starts when input crosses 500 but it will stops when input crosses 450.
